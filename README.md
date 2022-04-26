@@ -22,8 +22,11 @@ Proficient not in Blockchain development on Ethereum, BSC and Solana, but in WEB
     Subgraph development using Nodes and Moralis
 
 - WEB development in frontend and backend
+- 
     React and Redux, Material UI, Vue and Angular
+    
     Express and Nodejs, PHP development
+    
     AWS and GCP Cloud Services.
 
     .....................................
