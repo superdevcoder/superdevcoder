@@ -13,7 +13,7 @@ Proficient not in Blockchain development on Ethereum, BSC and Solana, but in WEB
     
     NFT minting and marketplace website, Utility token and NFT staking.
     
-    NFT game development
+    NFT virtual marketplace and game development
     
     Defi & Dex development, forking uniswap and pancakeswap.
     
@@ -22,8 +22,10 @@ Proficient not in Blockchain development on Ethereum, BSC and Solana, but in WEB
     Subgraph development using Nodes and Moralis
 
 - WEB development in frontend and backend
-- 
+
     React and Redux, Material UI, Vue and Angular
+    
+    Gsap, 2D & 3D Animation, AR/VR
     
     Express and Nodejs, PHP development
     
