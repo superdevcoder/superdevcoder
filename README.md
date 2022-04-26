@@ -5,32 +5,22 @@ I have 7+ years of experience in blockchain & web development.
 
 Proficient not in Blockchain development on Ethereum, BSC and Solana, but in WEB development in frontend and backend.
 
-- Blockchain development using Smart Contract(Solidity & Rust), WEB3 and Etherjs.
-    
+- Blockchain development using Smart Contract(Solidity & Rust), WEB3 and Etherjs.<br>
     Token Developmnent with Custom Tokenomics and ERC20, ERC 721, ERC 1155 .....<br>
-    Staking website with custom tokens and several functionalities such as compounding, LP lock and custom logic.
-    
-    ICO / IDO
-    
-    NFT minting and marketplace website, Utility token and NFT staking.
-    
-    NFT virtual marketplace and game development
-    
-    Defi & Dex development, forking uniswap and pancakeswap.
-    
-    Dapp development such as multi token sender, bridge, launchpad, lottery, airdrop,  and  .....
-    
-    Subgraph development using Nodes and Moralis
+    Staking website with custom tokens and several functionalities such as compounding, LP lock and custom logic.<br>
+    ICO / IDO<br>
+    NFT minting and marketplace website, Utility token and NFT staking.<br>
+    NFT virtual marketplace and game development<br>
+    Defi & Dex development, forking uniswap and pancakeswap.<br>
+    Dapp development such as multi token sender, bridge, launchpad, lottery, airdrop,  and  .....<br>
+    Subgraph development using Nodes and Moralis.<br>
 
-- WEB development in frontend and backend
+- WEB development in frontend and backend <br>
 
-    React and Redux, Material UI, Vue and Angular
-    
-    Gsap, 2D & 3D Animation, AR/VR
-    
-    Express and Nodejs, PHP development
-    
-    AWS and GCP Cloud Services.
+    React and Redux, Material UI, Vue and Angular. <br>
+    Gsap, 2D & 3D Animation, AR/VR. <br>
+    Express and Nodejs, PHP development. <br>
+    AWS and GCP Cloud Services.<br>
 
     .....................................
 
