@@ -7,9 +7,8 @@ Proficient not in Blockchain development on Ethereum, BSC and Solana, but in WEB
 
 - Blockchain development using Smart Contract(Solidity & Rust), WEB3 and Etherjs.
     
-    Token Developmnent with Custom Tokenomics and ERC20, ERC 721, ERC 1155 .....
-
-    Staking website with custom tokens and several functionalities such as compounding, LP lock and custom logic.
+    <p>Token Developmnent with Custom Tokenomics and ERC20, ERC 721, ERC 1155 .....</p>
+    <p>Staking website with custom tokens and several functionalities such as compounding, LP lock and custom logic.</p>
     
     ICO / IDO
     
