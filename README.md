@@ -73,10 +73,11 @@ Proficient not in Blockchain development on Ethereum, BSC and Solana, but in WEB
 
 ## <b>😇 My Github Stats</b>:
 <p align="left"><img src="https://komarev.com/ghpvc/?username=superdevcoder&label=Profile%20views&color=0e75b6&style=flat" alt="Superdevcoder" /> </p>
+<p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=superdevcoder&column=7&theme=onedark" alt="superdevcoder" /></p>
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=perfectdev000&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"> 
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=perfectdev000&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=superdevcoder&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"> 
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=superdevcoder&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
 </p>
-<a href="https://github.com/perfectdev000/perfectdev000">
-  <img alt="perfectdev000's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=perfectdev000&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
+<a href="https://github.com/superdevcoder/superdevcoder">
+  <img alt="superdevcoder's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=superdevcoder&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
 </a>
