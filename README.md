@@ -10,9 +10,10 @@ Proficient not in Blockchain development on Ethereum, BSC and Solana, but in WEB
     Token Developmnent with Custom Tokenomics and ERC20, ERC 721, ERC 1155 .....<br>
     Staking website with custom tokens and several functionalities such as compounding, LP lock and custom logic.<br>
     ICO / IDO<br>
-    NFT minting and marketplace website, Utility token and NFT staking.<br>
+    NFT minting and marketplace website, Utility token and NFT staking with Royality and Rarity.<br>
     NFT virtual marketplace and game development<br>
     Defi & Dex development, forking uniswap and pancakeswap.<br>
+    ✓ Integration with crypto wallets such as Metamask.<br>
     Dapp development such as multi token sender, bridge, launchpad, lottery, airdrop,  and  .....<br>
     Subgraph development using Nodes and Moralis.<br>
 
