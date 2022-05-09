@@ -26,7 +26,7 @@ Proficient not in Blockchain development on Ethereum, BSC and Solana, but in WEB
 
     .....................................
 
-<img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
+<img align="right" alt="GIF" src="https://github.com/superdevcoder/superdevcoder/blob/main/dev.gif" width="400" height="256" />
 
 - 🌱 I’m currently learning blockchain technologies
 - 🤔 I’m looking to help with buliding defi and web apps
