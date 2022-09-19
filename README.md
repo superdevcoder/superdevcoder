@@ -19,9 +19,11 @@ Proficient in Blockchain development on Ethereum, BSC and Solana, and in WEB dev
 
 - WEB development in frontend and backend <br>
 
+    ✓ Wordpress, Laravel. <br>
     ✓ React and Redux, Material UI, Vue and Angular. <br>
     ✓ Gsap, 2D & 3D Animation, AR/VR. <br>
     ✓ Express and Nodejs, PHP development. <br>
+    ✓ MySql, MongoDB and PostgreSql. <br>
     ✓ AWS and GCP Cloud Services.<br>
 
     .....................................
